@@ -4,4 +4,4 @@ Jeu multijoueur sur navigateur avec des courtes vidéos de jeux-vidéos compéti
 
 Possibilité pour les joueurs d’ajouter une vidéo, soumise d’abord à une modération
 
-Lien production: (https://chic-salamander-dc9825.netlify.app/)[https://chic-salamander-dc9825.netlify.app/]
+Lien production: https://chic-salamander-dc9825.netlify.app/
