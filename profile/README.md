@@ -1,12 +1,7 @@
-## Hi there 👋
+## Guess My Elo 👋
 
-<!--
+Jeu multijoueur sur navigateur avec des courtes vidéos de jeux-vidéos compétitif ( exemple : League of legends & valorant & Rocket league … ) qui passent et les joueurs doivent deviner le niveau de jeu de la partie ( donc le rang du joueur observé dans l’extrait ). Plus un joueur répond vite, plus il aura de points dans le classement en fin de partie.
 
-**Here are some ideas to get you started:**
+Possibilité pour les joueurs d’ajouter une vidéo, soumise d’abord à une modération
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Lien production: (https://chic-salamander-dc9825.netlify.app/)[https://chic-salamander-dc9825.netlify.app/]
