@@ -5,7 +5,7 @@ Jeu multijoueur sur navigateur avec des courtes vidéos de jeux-vidéos compéti
 Possibilité pour les joueurs d’ajouter une vidéo, soumise d’abord à une modération
 
 Dernieres branches à jour : 
-- front : dev
-- back : develop
+- front : https://github.com/GuessMyElo/guessmyelo-front/tree/dev
+- back : https://github.com/GuessMyElo/guessmyelo-back/tree/develop
 
 Lien production: https://chic-salamander-dc9825.netlify.app/
